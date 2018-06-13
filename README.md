@@ -3,7 +3,9 @@ Lista de links com material para estudo
 
 # Outros repositórios interessantes
 **Computer Vision**
+
 https://github.com/jbhuang0604/awesome-computer-vision
+
 http://simplecv.org/
 https://cmusatyalab.github.io/openface/
 https://github.com/ageitgey/face_recognition
